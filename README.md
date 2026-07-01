@@ -163,5 +163,3 @@ agent_project/
 ├── .env.example
 └── README.md
 ```
-#   A u t o n o m o u s - d o c - a g e n t  
- 
